@@ -26,3 +26,5 @@ Here a✉️re some ideas to get you started:
 ## Contact
 - ✉️ email: chobe0719@gmail.com
 
+## Resume
+- [영문이력서](https://docs.google.com/document/d/14KRwyfLUmTNu5E4WSzGs8u4w204nv9SbDOTZF8SVoAw/edit#heading=h.61e3cm1p1fln)
