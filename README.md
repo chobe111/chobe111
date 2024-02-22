@@ -15,6 +15,7 @@ Here a✉️re some ideas to get you started:
 # Hi Guys 😎
 
 안녕하세요 주니어 백엔드 개발자 조명기입니다 :)
+
 인공지능 기술을 다양한 도메인에 적용하여 이전에 존재하지 않던 새로운 가치를 제공하는 것에 관심이 있습니다.
 
 # Profile
