@@ -35,3 +35,5 @@ Here a✉️re some ideas to get you started:
 
 ## Resume
 - [영문이력서](https://docs.google.com/document/d/14KRwyfLUmTNu5E4WSzGs8u4w204nv9SbDOTZF8SVoAw/edit#heading=h.61e3cm1p1fln)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chobe1)](https://solved.ac/chobe1)
