@@ -15,6 +15,8 @@ Here a✉️re some ideas to get you started:
 # Hi Guys 😎
 
 안녕하세요 주니어 백엔드 개발자 조명기입니다 :)
+인공지능 기술을 다양한 도메인에 적용하여 이전에 존재하지 않던 새로운 가치를 제공하는 것에 관심이 있습니다.
+
 # Profile
 
 ## Careers
@@ -25,6 +27,10 @@ Here a✉️re some ideas to get you started:
 
 ## Contact
 - ✉️ email: chobe0719@gmail.com
+
+## Site
+- [blog](https://chobe1.tistory.com/)
+- [linkedin](https://www.linkedin.com/in/%EB%AA%85%EA%B8%B0-%EC%A1%B0-1914b71a0/)
 
 ## Resume
 - [영문이력서](https://docs.google.com/document/d/14KRwyfLUmTNu5E4WSzGs8u4w204nv9SbDOTZF8SVoAw/edit#heading=h.61e3cm1p1fln)
