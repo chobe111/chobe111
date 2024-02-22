@@ -12,7 +12,7 @@ Here a✉️re some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi Guys 😎
+# Hello World 😎
 
 안녕하세요 주니어 백엔드 개발자 조명기입니다 :)
 
