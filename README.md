@@ -21,6 +21,7 @@ Here a✉️re some ideas to get you started:
 # Profile
 
 ## Careers
+- Match Group Machine Learning Software Engineer 2024-07 ~
 - (주)하이퍼커넥트 Machine Learning Software Engineer 2024-03 ~ 
 - (주)버드뷰 Backend Engineer 2022-12 ~ 2023-10
 
